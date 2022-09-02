@@ -6,6 +6,6 @@
 Haro! I'm currently working on [Verifyy.co](https://verifyy.co/) & H3trivia.com<br />
 🎓 Graduated from Northumbria University with a Bachelor's Degree in Management in Dec 2021<br />
 📖 Completed University of Helsinki's Fullstack Development program in Jun 2022<br />
-🛠 1 YOE building full-stack web apps for production. One of the main engineer that worked on [ResumeBuilder.Resubae.com](https://resumebuilder.resubae.com/)<br />
+🛠 1 YOE building full-stack, production web apps. One of the main engineer that worked on [ResumeBuilder.Resubae.com](https://resumebuilder.resubae.com/)<br />
 
 
