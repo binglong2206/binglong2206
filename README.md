@@ -1,6 +1,7 @@
 # Hey, I'm Thanakorn (Binglong Chee) 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ThanakornChee-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/thanakorn-chee/)](https://www.linkedin.com/in/thanakorn-chee/)
+[![Linkedin Badge](https://img.shields.io/badge/-ThanakornChee-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thanakorn-chee/)](https://www.linkedin.com/in/thanakorn-chee/) [![Linkedin Badge](https://img.shields.io/badge/-ThanakornChee-blue?style=flat-square&logo=email&logoColor=white&link=https://www.linkedin.com/in/thanakorn-chee/)](https://www.linkedin.com/in/thanakorn-chee/)
+
 
 Nice to meet you! I'm currently working at GitHub as a software engineer.
 I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
