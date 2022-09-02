@@ -1,6 +1,6 @@
 # Hey, I'm Thanakorn (Binglong Chee) 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-ThanakornChee-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thanakorn-chee/)](https://www.linkedin.com/in/thanakorn-chee/) [![Linkedin Badge](https://img.shields.io/badge/-binglong2206@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)]
+[![Linkedin Badge](https://img.shields.io/badge/-ThanakornChee-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thanakorn-chee/)](https://www.linkedin.com/in/thanakorn-chee/) [![Gmail Badge](https://img.shields.io/badge/-binglong2206@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)]
 
 
 Nice to meet you! I'm currently working at GitHub as a software engineer.
