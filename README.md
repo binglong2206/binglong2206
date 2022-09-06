@@ -4,7 +4,6 @@
 
 
 Haro! I'm currently working on [Verifyy.co](https://verifyy.co/) & [H3Trivia.com](https://h3trivia.com/)<br />
-🇹🇭🇲🇾 Dual Nationality: Thai & Malaysian <br />
 🎓 Graduated from Northumbria University with a Bachelor's Degree in Management in Dec 2021<br />
 📖 Studying University of Helsinki's FullStackOpen Development Program<br />
 🛠 1 YOE building full-stack, production web apps. One of the main engineer that worked on [Resumebuilder.Resubae.com](https://resumebuilder.resubae.com/)<br />
